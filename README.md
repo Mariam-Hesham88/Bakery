@@ -1,2 +1,2 @@
-A "Bakery" project that uses only HTML and CSS
-Emphasis was placed on the use of Flexbox
+A "Bakery" project that was built with HTML, CSS, and the Font Awesome library.
+It's a training "Flexbox".
